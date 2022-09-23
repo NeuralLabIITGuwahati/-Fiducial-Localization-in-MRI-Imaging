@@ -1,4 +1,4 @@
-# -Fiducial-Localization-in-MRI-Imaging
+# Fiducial-Localization-in-MRI-Imaging
 Novel clustering algorithm for localizing fiducial points in MRI scan to assist Robosurgery.
 
 Paper: Performance Optimized Approach for Automatic Fiducial Segmentation in Medical Imaging to Assist Robot-guided Neurosurgery, IEEE EMBS International Student Conference, 2017
